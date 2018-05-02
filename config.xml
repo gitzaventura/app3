@@ -5,13 +5,13 @@ xmlns:gap="http:/7phonegap.com/ns/1.0"
 id ="com.phonegap.app3"
 version ="1.0.0">
 
-<name>app3 Dia Mundial de la bicicleta</name>
+<name>app3 Dia Mundial de la bicicleta </name>
 
 <description>
-Aplicación que muestra sobre el dia mundial de la bicicleta
+Aplicación que muestra lo del dia mundial de la bicicleta
 </description>
 
-<autor href="https://build.phonegap.com" email="cb16.ventura.ventura.gitza@gmail.com">
+<autor href="https://build.phonegap.com" email="gitza2001@gmail.com">
 Gitza Hassiel Ventura Ventura
 </autor>
 
