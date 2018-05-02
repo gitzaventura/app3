@@ -5,14 +5,14 @@ xmlns:gap="http:/7phonegap.com/ns/1.0"
 id ="com.phonegap.app3"
 version ="1.0.0">
 
-<name>app3 Dia Mundial de la bicicleta </name>
+<name>app3 DATOS DE LA BICCLETA</name>
 
 <description>
-Aplicación que muestra lo del dia mundial de la bicicleta
+Aplicación que muestra los datos del la bicicleta
 </description>
 
-<autor href="https://build.phonegap.com" email="gitza2001@gmail.com">
-Gitza Hassiel Ventura Ventura
+<autor href="https://build.phonegap.com" email="carvajalrony124@gmail.com">
+Gitza Hssiel Ventura Ventura
 </autor>
 
 <!--Personaliza la aplicacióny plataforma-->
@@ -43,4 +43,7 @@ Gitza Hassiel Ventura Ventura
 
 <!-- Colocar icono app -->
 
-<icon src="res/android/icono.png" />
+<icon src="res/android/mdpi.png" />
+
+</widget>
+
